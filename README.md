@@ -3,7 +3,7 @@
 
 ## Preview
 
-![Design preview for the Random Password Generator component coding challenge](./design/preview.jpg)
+![Design preview for the Random Password Generator component coding challenge](./preview.jpg)
 
 ### Level 1
 
