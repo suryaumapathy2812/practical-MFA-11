@@ -1,16 +1,25 @@
-# Frontend Mentor - NFT preview card component
+# Frontend Mentor - Random Password Generator card component
+
+
+## Preview
+
+![Design preview for the Random Password Generator component coding challenge](./design/preview.jpg)
 
 ### Level 1
 
-![Design preview for the NFT preview card component coding challenge](./preview.jpg)
+![Design preview for the Random Password Generator component coding challenge](./design/level-1.jpg)
 
 ### Level 2
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-design%20V2.jpeg)
+![Design preview for the Random Password Generator component coding challenge](./design/level-2.jpg)
 
 ### Level 3
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-design%20V3.jpeg)
+![Design preview for the Random Password Generator component coding challenge](./design/level-3.jpg)
+
+### Level 4
+
+![Design preview for the Random Password Generator component coding challenge](./design/level-4.jpg)
 
 ## Welcome! 👋
 
